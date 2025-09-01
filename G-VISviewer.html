@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Robot Viewer</title>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <style>
+    body { margin: 0; background: #111; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    model-viewer { width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <model-viewer src="./models/robot.glb" 
+                alt="Robot Model"
+                auto-rotate 
+                camera-controls 
+                ar 
+                shadow-intensity="1"
+                exposure="1.2">
+  </model-viewer>
+</body>
+</html>
