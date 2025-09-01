@@ -1,2 +1,4 @@
 # G-VIS
 A G-VIS is GAURAV's VERY INTELLIGENT SYSTEM 
+DAY 1 Completed (1 Sept 2025) 
+    
