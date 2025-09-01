@@ -4,3 +4,11 @@ TO DO THINGS TO DO SO (1 SEPT 2025 )
 DAY 1 
    made a repo G-VIS
    made a JOURNALG-VIS
+
+   Jarvis3D/
+│── main.py          # Python GUI (PyQt + WebEngine + JARVIS backend)
+│── robot_viewer.html # HTML page to display robot.glb
+│── models/
+    └── robot.glb
+│── config.py        # API key config (same as CodeWithHarry repo)
+│── jarvis.py        # AI assistant logic (voice + API)
